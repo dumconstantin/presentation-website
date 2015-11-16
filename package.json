@@ -3,6 +3,9 @@
   "version": "0.1.0",
   "description": "A sandboxed presentation website",
   "main": "index.js",
+  "scripts": {
+    "test": "echo 'Success'"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/dumconstantin/presentation-website.git"
